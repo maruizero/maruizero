@@ -13,6 +13,8 @@
 習作やオープンソース小説やエッセイ：
 [Github](https://github.com/maruizero?tab=repositories)
 - [日記や読書感想などを含めたエッセイ](https://github.com/maruizero/es-allgenre)
+  - [何も考えずに書いている日記](../es-allgenre/01思いのまま.md)
+  - [公募リスト](/es-allgenre/公募リスト/README.md)
 - [『放射性魔法少女アイソトープ』（仮）の創作場](https://github.com/maruizero/os-magical-nuclear-girl)
 - [ランダムワードで百合小説のあらすじを考える取り組み](https://github.com/maruizero/tr-rndword-yuri)
 - [これから投稿する予定の小説置き場](https://github.com/maruizero/or-post-novel)
