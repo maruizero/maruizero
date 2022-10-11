@@ -16,7 +16,6 @@
 - [ランダムワードで百合小説のあらすじを考える取り組み](https://github.com/maruizero/tr-rndword-yuri)
 - [これから投稿する予定の小説置き場](https://github.com/maruizero/or-post-novel)
 <br>---
-<br>
 一次創作：
 [カクヨム](https://kakuyomu.jp/users/marui9)
 - SF、百合、寓話などの短編小説
@@ -26,9 +25,6 @@
 [pixiv](https://www.pixiv.net/users/6456620)  
 - 『結城友奈は勇者である』シリーズ二次創作
 - 百合文芸3応募作
-<br>
-<br>
-<br>
 <br><!--
 **maruizero/maruizero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br>Here are some ideas to get you started:
