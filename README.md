@@ -10,7 +10,7 @@
 習作やオープンソース小説やエッセイ：
 [Github(更新順に表示)](https://github.com/maruizero?tab=repositories)
 - [日記や読書感想などを含めたエッセイ](https://github.com/maruizero/es-allgenre)
-  - [何も考えずに書いている日記](https://github.com/maruizero/es-allgenre/blob/main/01%E6%80%9D%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE.md)
+  - [文章を書く練習](https://github.com/maruizero/es-allgenre/blob/main/01%E6%80%9D%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE.md)
   - [公募リスト](https://github.com/maruizero/es-allgenre/tree/main/%E5%85%AC%E5%8B%9F%E3%83%AA%E3%82%B9%E3%83%88)
 - [『放射性魔法少女アイソトープ』（仮）の創作場](https://github.com/maruizero/os-magical-nuclear-girl)
 - [ランダムワードで百合小説のあらすじを考える取り組み](https://github.com/maruizero/tr-rndword-yuri)
@@ -19,7 +19,7 @@
 一次創作：
 [カクヨム](https://kakuyomu.jp/users/marui9)
 - SF、百合、寓話などの短編小説
-- 毎日エッセイ（手詰まり中）
+- 毎日エッセイ
 ---
 二次創作と百合文芸：
 [pixiv](https://www.pixiv.net/users/6456620)  
