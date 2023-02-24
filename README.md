@@ -13,7 +13,7 @@
 
 #### Pixiv投稿作品(後日追記予定）
 
-#### その他あらゆるジャンル([作品一覧](https://github.com/maruizero/es-allgenre))
+#### その他ALLジャンル([作品一覧](https://github.com/maruizero/es-allgenre))
  - [日記](https://github.com/maruizero/es-allgenre/tree/main/03%E6%9B%B8%E3%81%8F%E7%B7%B4%E7%BF%92)
 
 
