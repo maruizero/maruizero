@@ -18,7 +18,7 @@ Discord:丸井#8197
 
 ##### Pixiv投稿作品(後日追記予定）
 
-##### 日記など
+##### その他あらゆるジャンル
  - [日記](https://github.com/maruizero/es-allgenre/tree/main/03%E6%9B%B8%E3%81%8F%E7%B7%B4%E7%BF%92)
 
 
