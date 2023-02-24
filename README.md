@@ -16,9 +16,9 @@ Discord:丸井#8197
 #### カクヨム投稿作品([作品一覧](https://github.com/maruizero/kakuyomu-))
  - [文章を書く練習をする場](https://github.com/maruizero/kakuyomu-/blob/main/%E6%96%87%E5%AD%97%E3%82%92%E6%9B%B8%E3%81%8F%E7%B7%B4%E7%BF%92%E3%82%92%E3%81%99%E3%82%8B%E5%A0%B4)
 
-##### Pixiv投稿作品(後日追記予定）
+#### Pixiv投稿作品(後日追記予定）
 
-##### その他あらゆるジャンル
+#### その他あらゆるジャンル([作品一覧](https://github.com/maruizero/es-allgenre))
  - [日記](https://github.com/maruizero/es-allgenre/tree/main/03%E6%9B%B8%E3%81%8F%E7%B7%B4%E7%BF%92)
 
 
