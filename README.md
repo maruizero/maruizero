@@ -5,16 +5,19 @@
 後々追記していきます。
 ```
 ### 連絡先
-[Twitter]https://twitter.com/maruizero
-Mail:marui.renraku@gmail.com
-Discord:丸井#8197
+[Twitter]https://twitter.com/maruizero  
+Mail:marui.renraku@gmail.com  
+Discord:丸井#8197  
 
 ---
 ---
-#### 活動媒体
-習作やオープンソース小説やエッセイ：
-[Github(更新順に表示)](https://github.com/maruizero?tab=repositories)
- - [文章を書く練習をする場](/kakuyomu-/文字を書く練習をする場/01.md)
+### 活動媒体  
+#### カクヨム投稿作品  
+ - [文章を書く練習をする場](https://github.com/maruizero/kakuyomu-/blob/main/%E6%96%87%E5%AD%97%E3%82%92%E6%9B%B8%E3%81%8F%E7%B7%B4%E7%BF%92%E3%82%92%E3%81%99%E3%82%8B%E5%A0%B4)
+
+#### 日記など
+ - [日記](https://github.com/maruizero/es-allgenre/tree/main/03%E6%9B%B8%E3%81%8F%E7%B7%B4%E7%BF%92)
+
 
 --
 一次創作：
