@@ -4,18 +4,19 @@
 書いたものの管理をしたり書いた場所をまとめています。
 後々追記していきます。
 ```
+### 連絡先
+[Twitter]https://twitter.com/maruizero
+Mail:marui.renraku@gmail.com
+Discord:丸井#8197
+
 ---
 ---
 #### 活動媒体
 習作やオープンソース小説やエッセイ：
 [Github(更新順に表示)](https://github.com/maruizero?tab=repositories)
-- [日記や読書感想などを含めたエッセイ](https://github.com/maruizero/es-allgenre)
-  - [文章を書く練習](https://github.com/maruizero/es-allgenre/blob/main/01%E6%80%9D%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE.md)
-  - [公募リスト](https://github.com/maruizero/es-allgenre/tree/main/%E5%85%AC%E5%8B%9F%E3%83%AA%E3%82%B9%E3%83%88)
-- [『放射性魔法少女アイソトープ』（仮）の創作場](https://github.com/maruizero/os-magical-nuclear-girl)
-- [ランダムワードで百合小説のあらすじを考える取り組み](https://github.com/maruizero/tr-rndword-yuri)
-- [これから投稿する予定の小説置き場](https://github.com/maruizero/or-post-novel)
----
+ - [文章を書く練習をする場](/kakuyomu-/文字を書く練習をする場/01.md)
+
+--
 一次創作：
 [カクヨム](https://kakuyomu.jp/users/marui9)
 - SF、百合、寓話などの短編小説
