@@ -13,7 +13,7 @@ Discord:丸井#8197
 ---
 ## 活動媒体  
 ### 文章全般：[GitHub](https://github.com/maruizero)
-#### カクヨム投稿作品([目次](https://github.com/maruizero/kakuyomu-))
+#### カクヨム投稿作品([作品一覧](https://github.com/maruizero/kakuyomu-))
  - [文章を書く練習をする場](https://github.com/maruizero/kakuyomu-/blob/main/%E6%96%87%E5%AD%97%E3%82%92%E6%9B%B8%E3%81%8F%E7%B7%B4%E7%BF%92%E3%82%92%E3%81%99%E3%82%8B%E5%A0%B4)
 
 ##### Pixiv投稿作品(後日追記予定）
