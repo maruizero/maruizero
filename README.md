@@ -4,11 +4,6 @@
 書いたものの管理をしたり書いた場所をまとめています。
 後々追記していきます。
 ```
-## 連絡先
-[Twitter]https://twitter.com/maruizero  
-Mail:marui.renraku@gmail.com  
-Discord:丸井#8197  
-
 ---
 ---
 ## 活動媒体  
@@ -30,6 +25,12 @@ Discord:丸井#8197
 ### 二次創作と百合文芸：[pixiv](https://www.pixiv.net/users/6456620)  
 - 『結城友奈は勇者である』シリーズ二次創作
 - 百合文芸3応募作
+
+## 連絡先
+[Twitter]https://twitter.com/maruizero  
+Mail:marui.renraku@gmail.com  
+Discord:丸井#8197  
+
 <!--
 **maruizero/maruizero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
